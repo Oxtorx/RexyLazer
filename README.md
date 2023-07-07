@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RexyLazer</h1>
+<h1 align="center">Hi 👋, I'm Oxtor</h1>
 <h3 align="center">Developer C# and Currently Learning C++</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexylazer&label=Profile%20views&color=0e75b6&style=flat" alt="rexylazer" /> </p>
